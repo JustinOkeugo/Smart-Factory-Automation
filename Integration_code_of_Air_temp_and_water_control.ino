@@ -17,7 +17,7 @@ int currentTemp;
 int currentTemp_celsius;
 int setpoint;
 int setpoint_celsius;
-int standard_dev = 3.3024027;
+float standard_dev = 3.3024027;
 int UCL;
 int UCL_celsius;
 int LCL;
